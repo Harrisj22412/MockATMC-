@@ -1,0 +1,5 @@
+C:\Users\Debbie\ATMappC#\obj\Debug\net5.0\ATMappC#.csprojAssemblyReference.cache
+C:\Users\Debbie\ATMappC#\obj\Debug\net5.0\ATMappC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debbie\ATMappC#\obj\Debug\net5.0\ATMappC#.AssemblyInfoInputs.cache
+C:\Users\Debbie\ATMappC#\obj\Debug\net5.0\ATMappC#.AssemblyInfo.cs
+C:\Users\Debbie\ATMappC#\obj\Debug\net5.0\ATMappC#.csproj.CoreCompileInputs.cache
